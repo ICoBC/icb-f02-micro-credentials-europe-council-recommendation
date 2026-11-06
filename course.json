@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-F02",
+  "repository": "icb-f02-micro-credentials-europe-council-recommendation",
+  "repository_url": "https://github.com/ICoBC/icb-f02-micro-credentials-europe-council-recommendation",
+  "title": "Micro-credentials in Europe: the Council Recommendation in Practice",
+  "subtitle": "The European approach to micro-credentials and what it asks of issuers.",
+  "version": "1.0.0",
+  "series": "Foundation",
+  "skill": "Policy and regulatory navigation",
+  "level": "2",
+  "level_name": "Operate",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-POLR-L2-K",
+  "badge_name": "Micro-credentials in Europe: the Council Recommendation in Practice (Knowledge, L2)",
+  "hours": "3",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-f02/",
+  "parts": [
+    "About this course",
+    "Policy context and definition",
+    "The standard elements",
+    "The ten principles",
+    "Levels, credits and frameworks",
+    "Corporate and non-formal issuers in the European model",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 20
+}
